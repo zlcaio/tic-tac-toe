@@ -14,7 +14,7 @@ Jogo da velha simples, podendo ser jogado por até duas pessoas de forma local, 
 
 This is a simple tic tac toe game, the game can be played by two players on local, starting by player O.
 
-#How to play
+# How to play
 
 1. Clone the repository to your local machine.
 2. Open the "index.html" file in your browser.
