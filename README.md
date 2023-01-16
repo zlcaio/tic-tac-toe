@@ -21,3 +21,7 @@ This is a simple tic tac toe game, the game can be played by two players on loca
 3. The board will appear.
 4. The first player (O) now can start the game clicking on any of the squares.
 5. At the end of the game, a new match can be initialized by refreshing the page.
+
+
+
+with love, by Caio Reis.
